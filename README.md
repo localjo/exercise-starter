@@ -7,7 +7,7 @@ If you've ever been in a situation where you need to quickly set up a JavaScript
 ## Install
 
 ```
-git clone exercise-starter
+git clone git@github.com:localjo/exercise-starter.git
 cd exercise-starter
 npm install
 ```
