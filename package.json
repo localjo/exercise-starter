@@ -1,0 +1,27 @@
+{
+  "name": "exercise-starter",
+  "version": "1.0.0",
+  "description": "A starter template for TDD JavaScript exercises, code katas, and interviews",
+  "keywords": [
+    "TDD",
+    "JavaScript",
+    "jest",
+    "starter",
+    "exercise",
+    "interview",
+    "kata"
+  ],
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watchAll"
+  },
+  "author": "josiah.sprague@gmail.com",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-jest": "^22.4.3",
+    "babel-preset-env": "^1.6.1",
+    "jest": "^22.4.3",
+    "regenerator-runtime": "^0.11.1"
+  }
+}
